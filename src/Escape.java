@@ -2,7 +2,7 @@ import javax.swing.text.html.StyleSheet;
 import java.util.Scanner;
 
 public class Escape {
-    
+
     public static void displayEscape(){
     int A1;
     int bat;
@@ -82,8 +82,8 @@ public class Escape {
         System.out.println("chose the right number from 1-30 get bat. "+count+"/3 ");
         userguess = k.nextInt();
         if (userguess == random){
-            System.out.println("You got the bat");
-            count=count+3;
+            System.out.println("new Item. bat");
+            count=count+4;
         }
         else {
             System.out.println("Try again");
