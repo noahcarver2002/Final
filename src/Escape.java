@@ -2,7 +2,8 @@ import javax.swing.text.html.StyleSheet;
 import java.util.Scanner;
 
 public class Escape {
-public static void displayEscape(){
+    
+    public static void displayEscape(){
     int A1;
     int bat;
 //    boolean Count = true;
@@ -32,7 +33,7 @@ public static void displayEscape(){
             }
     }
 }
-public static void Jump(int A1) {
+    public static void Jump(int A1) {
     int random = (int) (Math.random()) * 100 + 12;
     int userguess;
     Scanner k = new Scanner(System.in);
