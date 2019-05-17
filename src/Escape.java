@@ -69,7 +69,7 @@ public class Escape {
     }
     }
     public static void DawnAFloor() {
-        System.out.println("You when down a floor. You are now in floor 3. You see the kidnapper go into a room \n" +
+        System.out.println("You are now in floor 3. You see the kidnapper go into a room \n" +
                 " at the end of the hall. The stair are next to his room.");
     }
     public static void chosebat(){
