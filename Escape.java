@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Escape {
 public static void main(String [] args){
     int A1;
+
     Scanner k= new Scanner(System.in);
     System.out.println("You are kidnapped. you are looked in a room that is 4 s2tories high.\n" +
             "The Guy that kidnapped you is in the house. 1) jump of the window. 2) go through the door");
@@ -21,14 +22,6 @@ public static void main(String [] args){
                 System.out.println("You are behind the bathroom door. You see the guy go to the room.");
                 System.out.println("1) Go to the Stairs. 2) Stay.");
                 a3=k.nextInt();
-                if (a3 == 1)
-
-                    if (a3 == 2)
-                        stay(a3);
-
-
-            }
-    }
 
 }
 public static void Jump(int A1) {
@@ -43,9 +36,7 @@ public static void Jump(int A1) {
             System.out.println("You died, try again");
     }
     public static void stay(int a3){
-    System.out.println("You Chose to stay. The Kidnapper notice you are gone he looks for you in the room.\n" +
-            " He is MAD. He gets out the room and goes down stairs");
-    
+
     }
 }
 
