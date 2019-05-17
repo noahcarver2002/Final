@@ -2,7 +2,7 @@ import javax.swing.text.html.StyleSheet;
 import java.util.Scanner;
 
 public class Escape {
-public static void main(String [] args){
+public static void displayEscape(){
     int A1;
     int bat;
 //    boolean Count = true;
