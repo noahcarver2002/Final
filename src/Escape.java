@@ -9,7 +9,7 @@ public class Escape {
 //    boolean Count = true;
     Scanner k= new Scanner(System.in);
     System.out.println("You are kidnapped. you are looked in a room that is 4 s2tories high.\n" +
-            "The Guy that kidnapped you is in the house. 1) jump of the window. 2) go through the door");
+            "The Guy that kidnapped you is in the house. 1) jump of the window. 2) go out the door");
     A1=k.nextInt();
     if (A1 == 1)
         Jump(A1);
@@ -17,8 +17,15 @@ public class Escape {
         int a2;
         System.out.println("You hear him getting close. 1) go back to the room. 2) Go to the Bathroom.");
         a2=k.nextInt();
-            if(a2 == 1)
-                System.out.println("He is getting closer. you hide under the bed. he come in. He found You. Try again");
+            if(a2 == 1) {
+                int chose;
+                String bed;
+                String closet;
+                System.out.println("Hide 1)bed 2) closet ");
+                chose=k.nextInt();
+                System.out.println("The kidnapper goes into the room. He is mad and walks away.");
+                System.out.println("You come out of hiding. He Never left. TRY again");
+            }
             else if(a2 == 2){
                 int a3;
                 System.out.println("You are behind the bathroom door. You see the guy go to the room.");
