@@ -5,7 +5,7 @@ public class Escape {
 
     public static void displayEscape(){
     int A1;
-    int bat=0;
+
 //    boolean Count = true;
     Scanner k= new Scanner(System.in);
     System.out.println("You are kidnapped. you are looked in a room that is 4 s2tories high.\n" +
