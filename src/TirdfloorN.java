@@ -1,3 +1,3 @@
-public class TirdfloorN {
+public class ThirdfloorN {
     public static void displayN(){}
 }
