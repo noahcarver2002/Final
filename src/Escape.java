@@ -3,8 +3,9 @@ import java.util.Scanner;
 
 public class Escape {
 
-    public static void displayEscape(int bat){
+    public static void displayEscape(){
     int A1;
+    int bat;
 //    boolean Count = true;
     Scanner k= new Scanner(System.in);
     System.out.println("You are kidnapped. you are looked in a room that is 4 s2tories high.\n" +
@@ -35,7 +36,7 @@ public class Escape {
                     System.out.println("He Saw you getting out the bathroom. Try again");
                 }
                     if (a3 == 2)
-                        stay(a3, bat);
+                        stay(a3,bat);
             }
     }
 }
@@ -89,7 +90,7 @@ public class Escape {
         userguess = k.nextInt();
         if (userguess == random){
             System.out.println("new Item obtain, Bat. ");
-            ++bat;
+            bat=bat-1;
             count=count+4;
         }
         else {
