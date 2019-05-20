@@ -15,24 +15,23 @@
       <file leaf-file-name="Escape.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Escape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+            <state relative-caret-position="247">
+              <caret line="80" column="5" lean-forward="true" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#displayEscape#0;class#Escape#0" />
                 <element signature="method#stay#0;class#Escape#0" />
-                <element signature="method#DawnAFloor#0;class#Escape#0" />
                 <element signature="method#chosebat#0;class#Escape#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="168">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -40,8 +39,26 @@
       <file leaf-file-name="thirdfloor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thirdfloor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            <state>
+              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TirdfloorM.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TirdfloorM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TirdfloorN.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TirdfloorN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -67,8 +84,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Escape.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/TirdfloorM.java" />
+        <option value="$PROJECT_DIR$/src/TirdfloorN.java" />
         <option value="$PROJECT_DIR$/src/thirdfloor.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -210,11 +229,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3285151" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3285151" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -246,7 +265,6 @@
             <element signature="imports" expanded="true" />
             <element signature="method#displayEscape#0;class#Escape#0" />
             <element signature="method#stay#0;class#Escape#0" />
-            <element signature="method#DawnAFloor#0;class#Escape#0" />
             <element signature="method#chosebat#0;class#Escape#0" />
           </folding>
         </state>
@@ -267,7 +285,6 @@
             <element signature="imports" expanded="true" />
             <element signature="method#displayEscape#0;class#Escape#0" />
             <element signature="method#stay#0;class#Escape#0" />
-            <element signature="method#DawnAFloor#0;class#Escape#0" />
             <element signature="method#chosebat#0;class#Escape#0" />
           </folding>
         </state>
@@ -281,7 +298,6 @@
             <element signature="imports" expanded="true" />
             <element signature="method#displayEscape#0;class#Escape#0" />
             <element signature="method#stay#0;class#Escape#0" />
-            <element signature="method#DawnAFloor#0;class#Escape#0" />
             <element signature="method#chosebat#0;class#Escape#0" />
           </folding>
         </state>
@@ -295,7 +311,6 @@
             <element signature="imports" expanded="true" />
             <element signature="method#displayEscape#0;class#Escape#0" />
             <element signature="method#stay#0;class#Escape#0" />
-            <element signature="method#DawnAFloor#0;class#Escape#0" />
             <element signature="method#chosebat#0;class#Escape#0" />
           </folding>
         </state>
@@ -303,13 +318,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Escape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        <state relative-caret-position="247">
+          <caret line="80" column="5" lean-forward="true" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#displayEscape#0;class#Escape#0" />
             <element signature="method#stay#0;class#Escape#0" />
-            <element signature="method#DawnAFloor#0;class#Escape#0" />
             <element signature="method#chosebat#0;class#Escape#0" />
           </folding>
         </state>
@@ -317,15 +331,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thirdfloor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TirdfloorM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TirdfloorN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
         </state>
       </provider>
     </entry>
