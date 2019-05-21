@@ -6,6 +6,7 @@ public class Escape {
     public static void displayEscape(){
     int A1;
 
+
 //    boolean Count = true;
     Scanner k= new Scanner(System.in);
     System.out.println("You are kidnapped. you are looked in a room that is 4 s2tories high.\n" +
@@ -15,6 +16,7 @@ public class Escape {
         Jump(A1);
     else if(A1 == 2){
         int a2;
+        int bat = 0;
         System.out.println("You hear him getting close. 1) go back to the room. 2) Go to the Bathroom.");
         a2=k.nextInt();
             if(a2 == 1) {
@@ -36,7 +38,7 @@ public class Escape {
                     System.out.println("He Saw you getting out the bathroom. Try again");
                 }
                     if (a3 == 2)
-                        stay(a3, bat);
+                        stay(a3,bat);
             }
     }
 }
